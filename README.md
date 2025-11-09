@@ -1,5 +1,5 @@
 # swapnil-ashok-devkar-certificate
-certificates
+
 ## 🏅 Certifications
 
 Here are some of my verified certifications from [Great Learning](https://www.mygreatlearning.com/):
